@@ -7,4 +7,6 @@ It need to work with IFTTT, Adafruit IO, P5.Serialcontrol and Arduino. The folde
 
 The recipes in IFTTT are: If anyone tweet about #sad then send a value "1" to my Channel in Adafruit IO, 
                           If anyone tweet about #happy then send a value "0" to my Channel in Adafruit IO.
+                          
+This project should work with a water pump, but it can also work with LED.
                         
