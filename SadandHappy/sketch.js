@@ -7,8 +7,8 @@
  * 
  */
 
-var aiokey = "5dfdebe645474fb8a6716e87af215e5e";
-var userName = "yiyi11";
+var aiokey = "5dfdebe**********15e5e";
+var userName = "*****";
 var channelName = "Twitter";
 
 var pollingRate = 2500;
